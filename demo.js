@@ -8,7 +8,7 @@ console.log(add);
 //subtraction two number
 let x=25;
 let y=15;
-let sub=x-y;
+let sub=x-y; 
 console.log(sub);
 
 // division two number
